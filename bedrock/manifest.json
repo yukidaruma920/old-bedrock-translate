@@ -1,1 +1,23 @@
-{}
+{
+    "format_version": 2,
+    "header": {
+      "name": "昔の翻訳に戻すリソパ",
+      "description": "今は亡き統合版の伝説的(?)翻訳を復活させました！",
+      "version": [1, 0, 0],
+      "uuid": "4d40f79d-314b-4b26-b067-692b464eec60",
+      "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "description": "",
+        "version": [1, 0, 0],
+        "uuid": "184db684-66ae-4f74-af55-ceeea2529cac"
+      }
+    ],
+    "metadata": {
+      "generated_with": {
+        "TokaTools-Manifest-Generator": ["1.8.0"]
+      }
+    }
+  }
