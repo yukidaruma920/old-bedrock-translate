@@ -1,1 +1,6 @@
-
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "かつて統合版に存在した伝説的(?)翻訳をJava版に移植"
+  }
+}
